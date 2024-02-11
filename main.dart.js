@@ -92443,13 +92443,13 @@ r.toString
 q.Q=B.c.d9(o.a.b*0.5625,0,A.aW(r,p,s).w.a.a)
 r=q.c
 r.toString
-q.d=A.jW("assets/images/a_back_1.jpg",B.ax,B.hD,A.aW(r,p,s).w.a.b,B.av,p)
+q.d=A.jW("assets/images/a_back_1.webp",B.ax,B.hD,A.aW(r,p,s).w.a.b,B.av,p)
 r=q.c
 r.toString
-q.e=A.jW("assets/images/a_back_2.jpg",B.ax,B.hD,A.aW(r,p,s).w.a.b,B.av,p)
+q.e=A.jW("assets/images/a_back_2.webp",B.ax,B.hD,A.aW(r,p,s).w.a.b,B.av,p)
 r=q.c
 r.toString
-q.f=A.jW("assets/images/a_back_3.jpg",B.ax,B.hD,A.aW(r,p,s).w.a.b,B.av,p)
+q.f=A.jW("assets/images/a_back_3.webp",B.ax,B.hD,A.aW(r,p,s).w.a.b,B.av,p)
 s=q.d
 r=q.c
 r.toString
@@ -92482,7 +92482,7 @@ o=a2.ax
 if(o<a2.y[2]&&o===0){o=a2.z
 o===$&&A.b()
 o.q2(A.bu(0,0,0))}o=a2.ax=a2.y[2]
-n=a2.iI(o,0.4,1)
+n=a2.iI(o,0.1,0.8)
 m=a2.y[2]
 l=a2.z
 l===$&&A.b()
